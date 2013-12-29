@@ -1,0 +1,1 @@
+/home/rshourov/.i3/
